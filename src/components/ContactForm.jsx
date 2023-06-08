@@ -80,7 +80,7 @@ export const ContactForm = () => {
             <Button
               type="submit"
               size="md"
-              _hover={{ bg: '#5cb85c', color: 'white' }}
+              _hover={{ bg: 'teal', color: 'white' }}
             >
               {isLoading ? <Spinner /> : <AddIcon />}
             </Button>

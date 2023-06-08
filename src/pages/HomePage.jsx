@@ -19,10 +19,10 @@ export default function HomePage() {
       maxW="800px"
       m="0 auto"
     >
-      <Text textAlign="center" fontSize="2xl" fontWeight="bold">
+      <Text textAlign="center" fontSize="2xl" fontWeight="bold" color= "teal">
         Contacts Application Book
       </Text>
-      <Text textAlign="center" fontSize="xl" my="20px">
+      <Text textAlign="center" fontSize="xl" my="20px" color= "gray">
         Contacts Application Book is a convenient and easy-to-use application that helps
         you saving and viewing your contacts. Here you can always find the
         necessary information quickly and efficiently.

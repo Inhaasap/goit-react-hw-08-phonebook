@@ -29,6 +29,7 @@ export const Filter = () => {
             value={filter}
             onChange={e => dispatch(filterContact(e.target.value))}
             autoComplete="off"
+            
           />
         </InputGroup>
       </FormLabel>

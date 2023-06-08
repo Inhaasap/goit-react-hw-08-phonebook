@@ -16,7 +16,7 @@ export const ContactList = () => {
           Don't have contacts...
         </Text>
       )}
-      <Box maxW="500px">
+      <Box maxW="600px">
         <ul>
           {contacts
             ?.filter(item =>

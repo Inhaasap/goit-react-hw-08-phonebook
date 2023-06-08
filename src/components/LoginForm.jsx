@@ -54,7 +54,7 @@ export const LoginForm = () => {
           fontWeight="thin"
           _hover={{ color: '#e0e0e0' }}
         >
-          No account? Register now!
+          Don't have an account? Register now!
         </Text>
       </Link>
     </>
